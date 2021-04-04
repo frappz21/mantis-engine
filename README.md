@@ -27,6 +27,7 @@
 - [ ] Lua scripting
 - [ ] Godot files exporter
 - [ ] Custom shaders language
+- [ ] Custom saves system
 ## To-do for next update:
 - [ ] 2D Camera script
 - [x] 2D Editor
