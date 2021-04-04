@@ -5,6 +5,7 @@
    Mantis Engine-an engine created to facilitate the work in Godot engine.
    ###### Current engine version: 1.2.1 .
    ###### Current Godot version: 3.2.3 .
+   ###### [Engine docs](https://github.com/tapxyh4ik/mantis-engine/blob/main/DOCS.md)
 
 ## Already done:
 - [x] Main UI
