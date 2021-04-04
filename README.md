@@ -19,9 +19,9 @@
 - [ ] 2D/3D Engine UI
 
 # Changes:
-Version | Whats added
+Version | Whats changed
 ------------ | -------------
-1.1.0 | Main UI; Projects extensions; 2D/3D Environment
+1.1.0 | (ADDED) Main UI; Projects extensions; 2D/3D Environment
 1.1.1 - 1.1.3 | Bug fixes
-1.1.3 | 3D Camera script
+1.1.3 | (ADDED) 3D Camera script
 1.1.4 - 1.2.1 | Bug fixes
