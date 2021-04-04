@@ -9,6 +9,6 @@
 
 ## Reporting a Vulnerability
 
-Report bugs, vulnerabilities, and bugs here:
-Mail: dadkad228@gmail.com
-VK: https://vk.com/andrey_mirajev_shiza
+###### Report bugs, vulnerabilities, and bugs here:
+###### Mail: dadkad228@gmail.com
+###### VK: https://vk.com/andrey_mirajev_shiza
