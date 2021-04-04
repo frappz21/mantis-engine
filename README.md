@@ -18,7 +18,7 @@
 - [ ] Import projects
 - [ ] 2D/3D Engine UI
 
-# Versions:
+# Changes:
 Version | Whats added
 ------------ | -------------
 1.1.0 | Main UI; Projects extensions; 2D/3D Environment
