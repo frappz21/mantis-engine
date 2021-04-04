@@ -13,7 +13,7 @@
 - [x] Projects extensions
 - [X] 2D/3D Environment
 - [X] 3D Camera script
-## To do:
+## To-do:
 - [ ] 2D Camera script
 - [ ] 2D Editor
 - [ ] 3D Environment
@@ -27,7 +27,7 @@
 - [ ] Lua scripting
 - [ ] Godot files exporter
 - [ ] Custom shaders language
-## To do for next update:
+## To-do for next update:
 - [ ] 2D Camera script
 - [x] 2D Editor
 - [ ] Resources importer
