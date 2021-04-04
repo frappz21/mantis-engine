@@ -18,6 +18,9 @@
 - [ ] Projects manager
 - [ ] Import projects
 - [ ] 2D/3D Engine UI
+- [ ] Visual scripting system
+- [ ] Lua scripting
+- [ ] Godot files exporter
 
 # Changes:
 Version | Whats changed
