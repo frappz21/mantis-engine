@@ -28,11 +28,11 @@
 - [ ] Custom shaders language
 ## To do for next update:
 - [ ] 2D Camera script
-- [ ] 2D Editor
+- [x] 2D Editor
 - [ ] Resources importer
 - [ ] Projects importer
 - [ ] Projects manager
-- [ ] Projects handler
+- [x] Projects handler
 
 # Changelogs:
 Version | Changes
