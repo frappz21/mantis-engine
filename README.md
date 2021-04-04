@@ -3,6 +3,7 @@
 
 # Description
 ## Mantis Engine-an engine created to facilitate the work in Godot engine.
+## Current engine version: 1.2.1
 
 ## Already done:
 - [x] Main UI
@@ -21,4 +22,5 @@
 Version | Whats added
 ------------ | -------------
 1.1.0 | Main UI; Projects extensions; 2D/3D Environment
-1.1.1 | 3D Camera script
+1.1.3 | 3D Camera script
+1.2.1 | Bug fixes
