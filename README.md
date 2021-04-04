@@ -12,19 +12,30 @@
 - [x] Projects extensions
 - [X] 2D/3D Environment
 - [X] 3D Camera script
-## To Do:
+## To do:
 - [ ] 2D Camera script
+- [ ] 2D Editor
 - [ ] 3D Environment
+- [ ] 3D Editor
 - [ ] Projects handler
 - [ ] Projects manager
-- [ ] Import projects
+- [ ] Projects importer
+- [ ] Resources importer
 - [ ] 2D/3D Engine UI
 - [ ] Visual scripting system
 - [ ] Lua scripting
 - [ ] Godot files exporter
+- [ ] Custom shaders language
+## To do for next update:
+- [ ] 2D Camera script
+- [ ] 2D Editor
+- [ ] Resources importer
+- [ ] Projects importer
+- [ ] Projects manager
+- [ ] Projects handler
 
-# Changes:
-Version | Whats changed
+# Changelogs:
+Version | Changes
 ------------ | -------------
 1.1.0 | (ADDED) Main UI; Projects extensions; 2D/3D Environment
 1.1.1 - 1.1.3 | Bug fixes
