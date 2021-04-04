@@ -3,10 +3,6 @@
 
 # Description
 ## Mantis Engine-an engine created to facilitate the work in Godot engine.
-#
-#
-#
-#
 
 ## Already done:
 - [x] Main UI
