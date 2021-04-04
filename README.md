@@ -1,4 +1,4 @@
-# mantis engine source code
+# mantis engine
 > made in godot engine
 
 # Description
