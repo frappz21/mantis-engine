@@ -1,5 +1,5 @@
 # Mantis engine
-> made in godot engine
+###### made in godot engine
 
 # Description:
    ###### Mantis Engine-an engine created to facilitate the work in Godot engine.
