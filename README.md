@@ -2,10 +2,9 @@
 > made in godot engine
 
 # Description:
-  ## Mantis Engine-an engine created to facilitate the work in Godot engine.
-  ## Current engine version: 1.2.1 .
-  ## Current Godot version: 3.2.3 .
-  ## [Docs](https://github.com/tapxyh4ik/mantis-engine/blob/main/DOCS.md)
+   Mantis Engine-an engine created to facilitate the work in Godot engine.
+   Current engine version: 1.2.1 .
+   Current Godot version: 3.2.3 .
 
 ## Already done:
 - [x] Main UI
